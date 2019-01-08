@@ -13,3 +13,10 @@ public static void main(String args[])
 System.out.println("My Wishes For GitHub Team");
 }
 }
+
+spring 
+hibernate
+servlets
+jsp
+jdbc
+core java
